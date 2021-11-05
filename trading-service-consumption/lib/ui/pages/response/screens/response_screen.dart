@@ -1,9 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:get/route_manager.dart';
 import 'package:misiontic_template/data/services/coin_pool.dart';
-import 'package:misiontic_template/data/services/work_pool.dart';
 import 'package:misiontic_template/domain/models/coin_models.dart';
-import 'package:misiontic_template/domain/models/public_job.dart';
 import 'package:misiontic_template/domain/use_case/controllers/theme_controller.dart';
 
 class ResponseScreen extends StatelessWidget {
