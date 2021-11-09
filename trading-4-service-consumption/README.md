@@ -1,7 +1,7 @@
 # trading-4-service-consumption
 
 ## Documentación
-[Coingecko documentación](@documentation@)
+[Coingecko documentación](https://www.coingecko.com/en/api/documentation)
 ## Enpoint
 Para este template se utilizara el endpoint: **/events**.
 > Obtiene los eventos relacionados a las cryptomonedas, en una paginacion de 100

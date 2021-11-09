@@ -1,7 +1,7 @@
 # trading-2-service-consumption
 
 ## Documentación
-[CryptingUp documentación](@documentation@)
+[CryptingUp documentación](https://www.cryptingup.com/apidoc/#introduction)
 ## Enpoint
 Para este template se utilizara el endpoint: **/assets**.
 > Obtiene todos los assets con paginacion

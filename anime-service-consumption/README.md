@@ -1,7 +1,7 @@
 # anime-service-consumption
 
 ## Documentación
-[kitsu documentación](@documentation@)
+[kitsu documentación](https://kitsu.docs.apiary.io/#)
 ## Enpoint
 Para este template se utilizara el endpoint: **/edge/anime**.
 > Obtiene una lista de animes

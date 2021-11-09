@@ -1,7 +1,7 @@
 # videojuegos-service-consumption
 
 ## Documentación
-[Free-To-Play Games Database API documentación](@documentation@)
+[Free-To-Play Games Database API documentación](https://www.freetogame.com/api-doc)
 ## Enpoint
 Para este template se utilizara el endpoint: **/games**.
 > Obtiene una lista de juegos gratuitos actalemnete disponibles

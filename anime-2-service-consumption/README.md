@@ -1,7 +1,8 @@
 # anime-2-service-consumption
 
 ## Documentación
-[Jikan documentación](@documentation@)
+[Jikan documentación](
+https://jikan.docs.apiary.io/#)
 ## Enpoint
 Para este template se utilizara el endpoint: **/top/anime/1/upcoming**.
 > Obtiene una lista de los animes mas esperados en la pagina de MyAnimeLIst

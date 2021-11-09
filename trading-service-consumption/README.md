@@ -1,7 +1,7 @@
 # trading-service-consumption
 
 ## Documentación
-[coinstats documentación](@documentation@)
+[coinstats documentación](https://documenter.getpostman.com/view/5734027/RzZ6Hzr3#intro)
 ## Enpoint
 Para este template se utilizara el endpoint: **/coins**.
 > Obtiene las monedas con precios globales promedios

@@ -1,7 +1,7 @@
 # arte-service-consumption
 
 ## Documentación
-[Art Institute of Chicago documentación](@documentation@)
+[Art Institute of Chicago documentación](https://api.artic.edu/docs/)
 ## Enpoint
 Para este template se utilizara el endpoint: **/artworks**.
 > Obtiene una lista de trabajos de arte en la coleccion del museo de arte de Chicago

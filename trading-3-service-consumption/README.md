@@ -1,7 +1,7 @@
 # trading-3-service-consumption
 
 ## Documentación
-[Coinpaprika documentación](@documentation@)
+[Coinpaprika documentación](https://api.coinpaprika.com/)
 ## Enpoint
 Para este template se utilizara el endpoint: **/exchanges**.
 > Obtiene una lista de los exchanges de cryptomonedas

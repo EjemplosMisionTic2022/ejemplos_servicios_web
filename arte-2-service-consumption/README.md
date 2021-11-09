@@ -1,7 +1,7 @@
 # arte-2-service-consumption
 
 ## Documentación
-[Rijksmuseum documentación](@documentation@)
+[Rijksmuseum documentación](https://data.rijksmuseum.nl/object-metadata/api/)
 ## Enpoint
 Para este template se utilizara el endpoint: **/collection**.
 > Obtiene una lista de los elementos en la collecion del museo
