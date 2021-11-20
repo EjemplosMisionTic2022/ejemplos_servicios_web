@@ -26,26 +26,45 @@ class ResponseScreen extends StatelessWidget {
                   mainAxisAlignment: MainAxisAlignment.start,
                   children: [
                     Image.network(game.thumbnail,
-                      width: 120,
+                      width: 170,
                     ),
                     const SizedBox( width: 5,),
                     Flexible(
-                      child: Column(
-                        mainAxisAlignment: MainAxisAlignment.start,
+                      child: Row(
+                        mainAxisAlignment: MainAxisAlignment.center,
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
-                          Text("Titulo: ${game.title}"),
-                          const SizedBox(height: 5,),
-                          Text("Descripcion: ${game.shortDescription}"),
-                          Text("Genero: ${game.genre}"),
-                          Text("Plataforma: ${game.platform}"),
-                          Text("Publisher: ${game.publisher}"),
-                          Text("Fecha de lanzamiento: ${game.releaseDate.toString()}"),
+                          Text("Titulo: ${game.title}")
                         ],
-                      ) 
+                      )
                     )
                   ],
-                ),
+                )
+              
+                // child: Row(
+                //   mainAxisAlignment: MainAxisAlignment.start,
+                //   children: [
+                //     Image.network(game.thumbnail,
+                //       width: 120,
+                //     ),
+                //     const SizedBox( width: 5,),
+                //     Flexible(
+                //       child: Column(
+                //         mainAxisAlignment: MainAxisAlignment.start,
+                //         crossAxisAlignment: CrossAxisAlignment.start,
+                //         children: [
+                //           Text("Titulo: ${game.title}"),
+                //           const SizedBox(height: 5,),
+                //           Text("Descripcion: ${game.shortDescription}"),
+                //           Text("Genero: ${game.genre}"),
+                //           Text("Plataforma: ${game.platform}"),
+                //           Text("Publisher: ${game.publisher}"),
+                //           Text("Fecha de lanzamiento: ${game.releaseDate.toString()}"),
+                //         ],
+                //       ) 
+                //     )
+                //   ],
+                // ),
               );
             },
           );

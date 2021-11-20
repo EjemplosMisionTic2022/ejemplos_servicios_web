@@ -15,7 +15,7 @@ class ResponsePage extends StatelessWidget {
     return Scaffold(
       appBar: CustomAppBar(
         controller: controller,
-        tile: const Text("Free Games"),
+        tile: const Text("Free to Games"),
         context: context,
       ),
       body: SafeArea(
